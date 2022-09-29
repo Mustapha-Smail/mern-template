@@ -22,12 +22,12 @@ git clone git@github.com:Mustapha-Smail/mern-template.git
 npm install 
 ```
 
-- Create a file name `.env` in your root folder and set the port you want your backend to run in :
+- Create a file name `.env` in your root folder and set the port you want your backend to run in : <br>
 *By default it's 5000* 
 ```shell
 PORT=5000
 ```
-- Create another `.env` file in the `frontend` folder and set the URL of your backend : 
+- Create another `.env` file in the `frontend` folder and set the URL of your backend : <br>
 *DO NOT change the variable name* 
 ```shell
 REACT_APP_BE_URL=http://localhost:5000/
