@@ -4,6 +4,8 @@ A MERN stack application template
 
 [![Build Status](https://app.travis-ci.com/Mustapha-Smail/mern-template.svg?branch=main)](https://app.travis-ci.com/Mustapha-Smail/mern-template)
 [![License](https://img.shields.io/github/license/mustapha-smail/mern-template.svg?style=flat-square)](LICENSE)
+[![Tag](https://img.shields.io/github/tag/mustapha-smail/mern-template.svg?label=tag&style=flat-square)](https://github.com/Mustapha-Smail/mern-template/releases/latest)
+[![Release](https://img.shields.io/github/release/mustapha-smail/mern-template.svg?style=flat-square)](https://github.com/Mustapha-Smail/mern-template/releases/latest)
 
 ## Requirments 
 *In order to build and run the application you need:* 
