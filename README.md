@@ -2,6 +2,7 @@
 
 A MERN stack application template 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dae3c9f1d6fd4210b658db0e6a21cdc9)](https://app.codacy.com/gh/Mustapha-Smail/mern-template?utm_source=github.com&utm_medium=referral&utm_content=Mustapha-Smail/mern-template&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://app.travis-ci.com/Mustapha-Smail/mern-template.svg?branch=main)](https://app.travis-ci.com/Mustapha-Smail/mern-template)
 [![License](https://img.shields.io/github/license/mustapha-smail/mern-template.svg?style=flat-square)](LICENSE)
 [![Tag](https://img.shields.io/github/tag/mustapha-smail/mern-template.svg?label=tag&style=flat-square)](https://github.com/Mustapha-Smail/mern-template/releases/latest)
