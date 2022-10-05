@@ -24,7 +24,7 @@ git clone git@github.com:Mustapha-Smail/mern-template.git
 
 - Go to your app folder, and run this command: 
 ```shell
-npm install 
+cd frontend/ && npm install && cd .. && npm install 
 ```
 
 - Create a file name `.env` in your root folder and set the port you want your backend to run in : <br>
